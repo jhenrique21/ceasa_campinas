@@ -2,7 +2,7 @@
 import wget
 import os
 
-#Apaga arquivos que existam para não sobrecarregar o diretório
+#Apaga cardapios antigos
 for indice in range(1,6):
     try:
         arquivo = f"cardapio_{indice}.pdf"
