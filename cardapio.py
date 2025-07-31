@@ -1,4 +1,6 @@
 
+#Script que baixa cardápios do ceasa Campinas para escola
+
 import wget
 import os
 
